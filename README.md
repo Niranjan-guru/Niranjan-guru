@@ -1,40 +1,33 @@
-                                                        **Niranjan ️‍♀️: Building Web Apps and Cracking Code ☕️**
-**Hey there! ** I'm Niranjan, a sophomore on a mission to conquer the exciting world of web application and software development. My current love language is JavaScript, but I'm always learning and expanding my coding arsenal ⚔️ (like those cool frameworks you mentioned ).
+<h1 align="center">Hi 👋, I'm Niranjan</h1>
+<h3 align="center">A passionate Full Stack Developer from India. Also into other domains like AI, Block Chain, mostly striving to become a Poly-Technologist</h3>
 
-When I'm not slaying bugs or building beautiful UIs, you can find me:
+- 🌱 I’m currently learning **Docker, Kubernetes, Vue.js, Figma**
 
-Pumping iron and pushing pixels ️‍♀️: I believe physical and mental fitness are both crucial for peak coding performance.
-Fueling my coding engine with caffeine ☕️: Don't worry, I share my secret stash.
-Exploring the vast universe of programming languages: From Python to Java ☕️ and C++ ⚔️, I'm always eager to learn new ways to create.
-This repository holds my journey of growth as a developer ✨. Here, you'll find:
+- 👨‍💻 All of my projects are available at [https://github.com/Niranjan-guru](https://github.com/Niranjan-guru)
 
-Personal projects: From simple web apps to ambitious side hustles, these projects showcase my skills and creativity.
-Coding experiments: I tinker with new technologies and frameworks, documenting my learning along the way.
-Open-source contributions: I believe in collaborating and building together, so feel free to join the party!
-Feel free to:
+- 📝 I regularly write articles on [www.linkedin.com/in/niranjan-balaguru-0bb84a23b](www.linkedin.com/in/niranjan-balaguru-0bb84a23b)
 
-Star this repo if you dig my vibe.
-Fork and contribute, because collaboration is key.
-Open an issue if you have any questions or suggestions, no matter how small they seem.
-**Let's build something awesome together! **
+- 💬 Ask me about **react, express, django, flask, c++, c**
 
-Tech Stack:
+- 📫 How to reach me **niranjanbalaguru63@gmail.com**
 
-Python
-☕️ Java
-⚡️ JavaScript & Frameworks
-⚔️ C/C++
-HTML/CSS
-MySQL
-**And beyond! **
+- ⚡ Fun fact **I pretend to be an Introvert but actually if you talk to me I would look like an Extrovert to you. I love to lift Heavyweights and talk more about MMA, Boxing, etc...**
 
-Follow me on my coding journey:
-https://www.linkedin.com/in/niranjan-balaguru-0bb84a23b/?originalSubdomain=in
-**Thanks for stopping by! **
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/niranjan balaguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan balaguru" height="30" width="40" /></a>
+<a href="https://instagram.com/niranjan_85769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan_85769" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/niranjan balaguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niranjan balaguru" height="30" width="40" /></a>
+</p>
 
-P.S.  I occasionally hide Easter eggs in my code. See if you can find them!
-      Feel free to fork my repositories and contribute! I'm all about collaboration and open-source goodness.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-P.P.S. ☕️ If you offer me coffee, I'll probably say yes. Just sayin'.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Niranjan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Niranjan" /></a></p><br><br>
 
-Let's build something amazing! ✨
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirannjan-guru&show_icons=true&locale=en&layout=compact" alt="nirannjan-guru" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirannjan-guru&show_icons=true&locale=en" alt="nirannjan-guru" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirannjan-guru&" alt="nirannjan-guru" /></p>
