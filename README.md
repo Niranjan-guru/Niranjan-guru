@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
-<h3 align="center">A passionate Full Stack Developer from India. Also into other domains like AI, Block Chain, mostly striving to become a Poly-Technologist</h3>
+<h3 align="center">A passionate Cybersecurity Analyst from India. Also into other domains like Full Stack Development, AI, Block Chain</h3>
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Vue.js, Figma**
 
