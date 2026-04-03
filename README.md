@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
-<h3 align="center">A passionate Cybersecurity Analyst from India. Also into other domains like Full Stack Development, AI, Block Chain</h3>
+<h3 align="center">A Software Developer from India. Also into other domains like Movies, Graphic/CA Designing</h3>
+<a href="https:knowaboutniranjan.vercel.app">Hey Check me out in my website </a>
+<sub>Don't forget to rate it, it would be helpful for further increments!! 🤌🏻</sub>
 
 # 💫 About Me:
 🔭 I'm currently working on Research Project: **CREDScore:** <em>An Unified Evaluation Metric for Hallucination in VLLMs</em> <br>📂 All of my projects are at https://github.com/Niranjan-guru<br>⛳ You can reach me at niranjanbalaguru63@gmail.com<br>🔗 Connect with me at https://www.linkedin.com/in/b-niranjan-0bb84a23b/?lipi=urn%3Ali%3Apage%3Ap_mwlite_my_network%3BBjBeHtLJQ0iB5BQaox%2FqFw%3D%3D
