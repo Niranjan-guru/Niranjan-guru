@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cybersecurity Analyst from India. Also into other domains like Full Stack Development, AI, Block Chain</h3>
 
 # 💫 About Me:
-🔭 I'm currently working on MinuteAI Project https://github.com/Niranjan-guru/AI_Online_meeting_assistant <br>📂 All of my projects are at https://github.com/Niranjan-guru<br>⛳ You can reach me at niranjanbalaguru63@gmail.com<br>🔗 Connect with me at https://www.linkedin.com/in/b-niranjan-0bb84a23b/?lipi=urn%3Ali%3Apage%3Ap_mwlite_my_network%3BBjBeHtLJQ0iB5BQaox%2FqFw%3D%3D
+🔭 I'm currently working on Research Project: **CREDScore:** <em>An Unified Evaluation Metric for Hallucination in VLLMs</em> <br>📂 All of my projects are at https://github.com/Niranjan-guru<br>⛳ You can reach me at niranjanbalaguru63@gmail.com<br>🔗 Connect with me at https://www.linkedin.com/in/b-niranjan-0bb84a23b/?lipi=urn%3Ali%3Apage%3Ap_mwlite_my_network%3BBjBeHtLJQ0iB5BQaox%2FqFw%3D%3D
 
 
 ## 🌐 Socials:
