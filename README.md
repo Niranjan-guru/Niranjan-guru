@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A Software Developer from India. Also into other domains like Movies, Graphic/CA Designing</h3>
-Hey Check me out in my <a href="https:knowaboutniranjan.vercel.app">website </a>
+
+Hey! Check me out on my [website](https://knowaboutniranjan.vercel.app/).
 <sub>Don't forget to rate it, it would be helpful for further increments!! 🤌🏻</sub>
 
 # 💫 About Me:
